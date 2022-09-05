@@ -1,0 +1,20 @@
+#list {
+  width: 70vw;
+  background-color: blanchedalmond;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  list-style-type: none;
+}
+li {
+  width: 40%;
+  height: 50px;
+  background-color: rgb(208, 173, 241);
+  color: white;
+  margin: 1em;
+  padding: 1%;
+}
+#show {
+  display: none;
+}
